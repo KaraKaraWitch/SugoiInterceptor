@@ -1,0 +1,7 @@
+{
+    "text_completion":"https://<>",
+    "api_key":"<API_KEY>",
+    "model":"<MODEL>",
+    "jinja": "<CHAT_COMPLETION> // For DazedMTL",
+    "prompt": "<TEXT_COMPLETION> // For Sugoi Translator interfaces"
+}
